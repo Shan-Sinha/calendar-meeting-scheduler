@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv
+venv/
+env/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Docker
+docker-compose.override.yml
+
+# Frontend
+.streamlit/
+node_modules/
+build/
+dist/
+
+# MacOS
+.DS_Store
+
+# Backend specific
+scheduler_api/alembic.ini
+scheduler_api/alembic/versions/*.py
+
+# Test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Environment files
+*.env
+*.env.local
+
+# Secrets
+secrets.json
+service-account.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
