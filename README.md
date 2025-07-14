@@ -185,9 +185,6 @@ meeting-scheduler/
 * `API_URL`: URL of the backend API
 * `JWT_SECRET`: Must match backend secret
 
-## Screenshots
-
-*(Add your screenshots here, e.g. login, dashboard, meeting creation, calendar view)*
 
 ## Troubleshooting
 
